@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "Alexey best",
+  "mongoUri": "mongodb+srv://Alex:1234@cluster0-utkrq.mongodb.net/app3?retryWrites=true&w=majority"
+}
